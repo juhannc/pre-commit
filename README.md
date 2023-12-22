@@ -1,6 +1,10 @@
 # pre-commit
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/juhannc/pre-commit/main.svg)](https://results.pre-commit.ci/latest/github/juhannc/pre-commit/main)
+[![Docker Pulls](https://img.shields.io/docker/pulls/johannlange/pre-commit?logo=docker
+)](https://hub.docker.com/r/johannlange/pre-commit)
+[![GitHub Container Registry](https://img.shields.io/badge/GitHub%20Container%20Registry-available-green?logo=github)](https://ghcr.io/juhannc/pre-commit)
+[![GitHub license](https://img.shields.io/github/license/juhannc/pre-commit)](https://github.com/juhannc/pre-commit/blob/main/LICENSE)
 
 A collection of pre-build images for running pre-commit hooks.
 Available on [Docker Hub](https://hub.docker.com/r/johannlange/pre-commit) and [GitHub Container Registry](https://ghcr.io/juhannc/pre-commit).
