@@ -1,0 +1,22 @@
+# pre-commit
+
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/juhannc/pre-commit/main.svg)](https://results.pre-commit.ci/latest/github/juhannc/pre-commit/main)
+
+A collection of pre-build images for running pre-commit hooks.
+Available on [Docker Hub](https://hub.docker.com/r/johannlange/pre-commit) and [GitHub Container Registry](https://ghcr.io/juhannc/pre-commit).
+
+## Available images
+
+| Image | Docker Hub | GitHub Container Registry |
+| ----- | ---------- | ------------------------- |
+| `latest` | `johannlange/pre-commit:latest` | `ghcr.io/juhannc/pre-commit:latest` |
+| `3.8` | `johannlange/pre-commit:3.8` | `ghcr.io/juhannc/pre-commit:3.8` |
+| `3.8-slim` | `johannlange/pre-commit:3.8-slim` | `ghcr.io/juhannc/pre-commit:3.8-slim` |
+| `3.9` | `johannlange/pre-commit:3.9` | `ghcr.io/juhannc/pre-commit:3.9` |
+| `3.9-slim` | `johannlange/pre-commit:3.9-slim` | `ghcr.io/juhannc/pre-commit:3.9-slim` |
+| `3.10` | `johannlange/pre-commit:3.10` | `ghcr.io/juhannc/pre-commit:3.10` |
+| `3.10-slim` | `johannlange/pre-commit:3.10-slim` | `ghcr.io/juhannc/pre-commit:3.10-slim` |
+| `3.11` | `johannlange/pre-commit:3.11` | `ghcr.io/juhannc/pre-commit:3.11` |
+| `3.11-slim` | `johannlange/pre-commit:3.11-slim` | `ghcr.io/juhannc/pre-commit:3.11-slim` |
+| `3.12` | `johannlange/pre-commit:3.12` | `ghcr.io/juhannc/pre-commit:3.12` |
+| `3.12-slim` | `johannlange/pre-commit:3.12-slim` | `ghcr.io/juhannc/pre-commit:3.12-slim` |

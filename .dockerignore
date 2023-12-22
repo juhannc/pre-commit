@@ -1,0 +1,4 @@
+.github/**/*
+.editorconfig
+.pre-commit-config.yaml
+README.md
