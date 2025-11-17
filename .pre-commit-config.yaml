@@ -21,12 +21,12 @@ repos:
     name: Fixing markdown linting errors
     args: [--disable, MD013, --fix]
 - repo: https://github.com/python-jsonschema/check-jsonschema
-  rev: 0.33.3
+  rev: 0.35.0
   hooks:
   - id: check-github-workflows
     name: Check GitHub Workflow configuration
 - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-  rev: 3.4.0
+  rev: 3.4.1
   hooks:
   - id: editorconfig-checker
 - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
