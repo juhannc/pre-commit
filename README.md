@@ -14,6 +14,8 @@ Available on [Docker Hub](https://hub.docker.com/r/johannlange/pre-commit) and [
 | Image       | Docker Hub                         | GitHub Container Registry              |
 | ----------- | ---------------------------------- | -------------------------------------- |
 | `latest`    | `johannlange/pre-commit:latest`    | `ghcr.io/juhannc/pre-commit:latest`    |
+| `3.14`      | `johannlange/pre-commit:3.14`      | `ghcr.io/juhannc/pre-commit:3.14`      |
+| `3.14-slim` | `johannlange/pre-commit:3.14-slim` | `ghcr.io/juhannc/pre-commit:3.14-slim` |
 | `3.13`      | `johannlange/pre-commit:3.13`      | `ghcr.io/juhannc/pre-commit:3.13`      |
 | `3.13-slim` | `johannlange/pre-commit:3.13-slim` | `ghcr.io/juhannc/pre-commit:3.13-slim` |
 | `3.12`      | `johannlange/pre-commit:3.12`      | `ghcr.io/juhannc/pre-commit:3.12`      |
@@ -22,8 +24,6 @@ Available on [Docker Hub](https://hub.docker.com/r/johannlange/pre-commit) and [
 | `3.11-slim` | `johannlange/pre-commit:3.11-slim` | `ghcr.io/juhannc/pre-commit:3.11-slim` |
 | `3.10`      | `johannlange/pre-commit:3.10`      | `ghcr.io/juhannc/pre-commit:3.10`      |
 | `3.10-slim` | `johannlange/pre-commit:3.10-slim` | `ghcr.io/juhannc/pre-commit:3.10-slim` |
-| `3.9`       | `johannlange/pre-commit:3.9`       | `ghcr.io/juhannc/pre-commit:3.9`       |
-| `3.9-slim`  | `johannlange/pre-commit:3.9-slim`  | `ghcr.io/juhannc/pre-commit:3.9-slim`  |
 
 ## Deprecated Images
 
@@ -33,3 +33,5 @@ For the sollowing tags, the images are still available but will not be updated a
 | ---------- | --------------------------------- | ------------------------------------- |
 | `3.8`      | `johannlange/pre-commit:3.8`      | `ghcr.io/juhannc/pre-commit:3.8`      |
 | `3.8-slim` | `johannlange/pre-commit:3.8-slim` | `ghcr.io/juhannc/pre-commit:3.8-slim` |
+| `3.9`       | `johannlange/pre-commit:3.9`       | `ghcr.io/juhannc/pre-commit:3.9`       |
+| `3.9-slim`  | `johannlange/pre-commit:3.9-slim`  | `ghcr.io/juhannc/pre-commit:3.9-slim`  |
