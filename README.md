@@ -33,5 +33,5 @@ For the sollowing tags, the images are still available but will not be updated a
 | ---------- | --------------------------------- | ------------------------------------- |
 | `3.8`      | `johannlange/pre-commit:3.8`      | `ghcr.io/juhannc/pre-commit:3.8`      |
 | `3.8-slim` | `johannlange/pre-commit:3.8-slim` | `ghcr.io/juhannc/pre-commit:3.8-slim` |
-| `3.9`       | `johannlange/pre-commit:3.9`       | `ghcr.io/juhannc/pre-commit:3.9`       |
-| `3.9-slim`  | `johannlange/pre-commit:3.9-slim`  | `ghcr.io/juhannc/pre-commit:3.9-slim`  |
+| `3.9`      | `johannlange/pre-commit:3.9`      | `ghcr.io/juhannc/pre-commit:3.9`      |
+| `3.9-slim` | `johannlange/pre-commit:3.9-slim` | `ghcr.io/juhannc/pre-commit:3.9-slim` |
