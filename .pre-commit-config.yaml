@@ -23,7 +23,7 @@ repos:
         name: Fixing markdown linting errors
         args: [--disable, MD013, --fix]
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.36.0
+    rev: 0.36.1
     hooks:
       - id: check-github-workflows
         name: Check GitHub Workflow configuration
