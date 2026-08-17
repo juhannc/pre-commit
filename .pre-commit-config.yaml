@@ -28,7 +28,7 @@ repos:
       - id: check-github-workflows
         name: Check GitHub Workflow configuration
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: 3.8.0
+    rev: 3.11.1
     hooks:
       - id: editorconfig-checker
   - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
